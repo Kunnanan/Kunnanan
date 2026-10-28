@@ -78,7 +78,7 @@ An AI-assisted hiring platform designed to evaluate candidate profiles and coord
 
 **Technologies:** Python · FastAPI · PostgreSQL · LLMs · AI Agents
 
-[View Repository](https://github.com/Kunnanan/REPLACE_WITH_HIRING_PROJECT_REPO)
+[View Repository](https://github.com/Kunnanan/Agentic-AI-Hiring-Talent-Evaluation-Platform)
 
 ### 🛡️ 2. Military Asset Management System
 
@@ -91,7 +91,7 @@ A full-stack application for managing military assets and related operational re
 
 **Technologies:** Python · FastAPI · MySQL · React · Vite
 
-[View Repository](https://github.com/Kunnanan/REPLACE_WITH_ASSET_PROJECT_REPO)
+[View Repository](https://github.com/Kunnanan/military-asset-management-system)
 
 ### 🏠 3. Sudarshan PG Management System
 
@@ -105,7 +105,7 @@ A PG management application designed to organize tenant and room information and
 
 **Technologies:** Python · Django · SQL · HTML · CSS · JavaScript
 
-[View Repository](https://github.com/Kunnanan/REPLACE_WITH_PG_PROJECT_REPO)
+[View Repository](https://github.com/Kunnanan/Sudarshan_Pg/tree/Kunnanan/Feature_Branch)
 
 ---
 
